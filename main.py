@@ -124,8 +124,8 @@ def buildersDfs(response):
             if(arrayForecast["Message"] == "The allowed number of requests has been exceeded."):
                 print("Please create another apiKey.")
             break    
-    df1.to_csv("n2Table1.csv", index="false")
-    df2.to_csv("n2Table2.csv", index="false")
+    df1.to_csv("newTable1.csv", index="false")
+    df2.to_csv("newTable2.csv", index="false")
     return
 
 
