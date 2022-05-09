@@ -69,16 +69,9 @@ Essas tabelas deverão ser exportadas em formado CSV e entregue no final do desa
 ## To Do
 
 [ x ] - Consultar municípios do Vale do Paraíba, gerar um data frame e criar uma temp view com esses dados.
+
 [ x ] - Consultar dados do tempo para cada município, gerar um data frame e criar uma outra temp view.
+
 [ x ] - Utilizar Spark SQL para gerar os data frames das Tabelas 1 e 2. (Feito com Pandas)
+
 [ x ] - Exportar os data frames para CSV.
-
-## Atenção
-
-- Existe um limite de requisições de 10000 requests por conta cadastrada na m3o.
-- Essa API pode retornar cidades de outras regiões que possuem nome semelhante a alguma cidade do Vale do Paraiba. Pode mantê-las ou filtrar para gerar as tabelas apenas com dados de Regiao = Sao Paulo. Fica a seu critério.
-
-## Entregando o desafio
-
-Concluindo todos os passos informados em To Do, basta salvar o arquivo .ipynb do notebook e enviar para a Dataside juntamente com os CSVs das duas tabelas.
-
