@@ -1,0 +1,1300 @@
+{
+    "Headline": {
+        "EffectiveDate": "2022-05-09T14:00:00-04:00",
+        "EffectiveEpochDate": 1652119200,
+        "Severity": 7,
+        "Text": "Ameno de nesta tarde at\u00e9 amanh\u00e3 \u00e0 tarde",
+        "Category": "heat",
+        "EndDate": "2022-05-10T20:00:00-04:00",
+        "EndEpochDate": 1652227200,
+        "MobileLink": "http://www.accuweather.com/pt/ca/lac-normand/g0x/daily-weather-forecast/3555406?lang=pt-br",
+        "Link": "http://www.accuweather.com/pt/ca/lac-normand/g0x/daily-weather-forecast/3555406?lang=pt-br"
+    },
+    "DailyForecasts": [
+        {
+            "Date": "2022-05-09T07:00:00-04:00",
+            "EpochDate": 1652094000,
+            "Sun": {
+                "Rise": "2022-05-09T05:24:00-04:00",
+                "EpochRise": 1652088240,
+                "Set": "2022-05-09T20:13:00-04:00",
+                "EpochSet": 1652141580
+            },
+            "Moon": {
+                "Rise": "2022-05-09T12:26:00-04:00",
+                "EpochRise": 1652113560,
+                "Set": "2022-05-10T03:17:00-04:00",
+                "EpochSet": 1652167020,
+                "Phase": "WaxingGibbous",
+                "Age": 9
+            },
+            "Temperature": {
+                "Minimum": {
+                    "Value": 44.0,
+                    "Unit": "F",
+                    "UnitType": 18
+                },
+                "Maximum": {
+                    "Value": 70.0,
+                    "Unit": "F",
+                    "UnitType": 18
+                }
+            },
+            "RealFeelTemperature": {
+                "Minimum": {
+                    "Value": 42.0,
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Phrase": "Friorento"
+                },
+                "Maximum": {
+                    "Value": 76.0,
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Phrase": "Agrad\u00e1vel"
+                }
+            },
+            "RealFeelTemperatureShade": {
+                "Minimum": {
+                    "Value": 42.0,
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Phrase": "Friorento"
+                },
+                "Maximum": {
+                    "Value": 67.0,
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Phrase": "Agrad\u00e1vel"
+                }
+            },
+            "HoursOfSun": 11.7,
+            "DegreeDaySummary": {
+                "Heating": {
+                    "Value": 8.0,
+                    "Unit": "F",
+                    "UnitType": 18
+                },
+                "Cooling": {
+                    "Value": 0.0,
+                    "Unit": "F",
+                    "UnitType": 18
+                }
+            },
+            "AirAndPollen": [
+                {
+                    "Name": "AirQuality",
+                    "Value": 0,
+                    "Category": "Boa",
+                    "CategoryValue": 1,
+                    "Type": "Oz\u00f4nio"
+                },
+                {
+                    "Name": "Grass",
+                    "Value": 0,
+                    "Category": "Boa",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Mold",
+                    "Value": 0,
+                    "Category": "Boa",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Ragweed",
+                    "Value": 0,
+                    "Category": "Boa",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Tree",
+                    "Value": 3,
+                    "Category": "Boa",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "UVIndex",
+                    "Value": 8,
+                    "Category": "Insalubre",
+                    "CategoryValue": 4
+                }
+            ],
+            "Day": {
+                "Icon": 3,
+                "IconPhrase": "Parcialmente ensolarado",
+                "HasPrecipitation": false,
+                "ShortPhrase": "Sol com algumas nuvens",
+                "LongPhrase": "Sol com algumas nuvens",
+                "PrecipitationProbability": 0,
+                "ThunderstormProbability": 0,
+                "RainProbability": 0,
+                "SnowProbability": 0,
+                "IceProbability": 0,
+                "Wind": {
+                    "Speed": {
+                        "Value": 5.8,
+                        "Unit": "mi/h",
+                        "UnitType": 9
+                    },
+                    "Direction": {
+                        "Degrees": 113,
+                        "Localized": "SE",
+                        "English": "ESE"
+                    }
+                },
+                "WindGust": {
+                    "Speed": {
+                        "Value": 13.8,
+                        "Unit": "mi/h",
+                        "UnitType": 9
+                    },
+                    "Direction": {
+                        "Degrees": 330,
+                        "Localized": "NNO",
+                        "English": "NNW"
+                    }
+                },
+                "TotalLiquid": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Rain": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Snow": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Ice": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "HoursOfPrecipitation": 0.0,
+                "HoursOfRain": 0.0,
+                "HoursOfSnow": 0.0,
+                "HoursOfIce": 0.0,
+                "CloudCover": 26,
+                "Evapotranspiration": {
+                    "Value": 0.17,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "SolarIrradiance": {
+                    "Value": 6393.5,
+                    "Unit": "W/m\u00b2",
+                    "UnitType": 33
+                }
+            },
+            "Night": {
+                "Icon": 34,
+                "IconPhrase": "Predominantemente aberto",
+                "HasPrecipitation": false,
+                "ShortPhrase": "Claro a parcialmente nublado",
+                "LongPhrase": "Claro a parcialmente nublado",
+                "PrecipitationProbability": 0,
+                "ThunderstormProbability": 0,
+                "RainProbability": 0,
+                "SnowProbability": 0,
+                "IceProbability": 0,
+                "Wind": {
+                    "Speed": {
+                        "Value": 4.6,
+                        "Unit": "mi/h",
+                        "UnitType": 9
+                    },
+                    "Direction": {
+                        "Degrees": 137,
+                        "Localized": "SE",
+                        "English": "SE"
+                    }
+                },
+                "WindGust": {
+                    "Speed": {
+                        "Value": 13.8,
+                        "Unit": "mi/h",
+                        "UnitType": 9
+                    },
+                    "Direction": {
+                        "Degrees": 148,
+                        "Localized": "SSE",
+                        "English": "SSE"
+                    }
+                },
+                "TotalLiquid": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Rain": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Snow": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Ice": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "HoursOfPrecipitation": 0.0,
+                "HoursOfRain": 0.0,
+                "HoursOfSnow": 0.0,
+                "HoursOfIce": 0.0,
+                "CloudCover": 21,
+                "Evapotranspiration": {
+                    "Value": 0.02,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "SolarIrradiance": {
+                    "Value": 1187.2,
+                    "Unit": "W/m\u00b2",
+                    "UnitType": 33
+                }
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "MobileLink": "http://www.accuweather.com/pt/ca/lac-normand/g0x/daily-weather-forecast/3555406?day=1&lang=pt-br",
+            "Link": "http://www.accuweather.com/pt/ca/lac-normand/g0x/daily-weather-forecast/3555406?day=1&lang=pt-br"
+        },
+        {
+            "Date": "2022-05-10T07:00:00-04:00",
+            "EpochDate": 1652180400,
+            "Sun": {
+                "Rise": "2022-05-10T05:23:00-04:00",
+                "EpochRise": 1652174580,
+                "Set": "2022-05-10T20:14:00-04:00",
+                "EpochSet": 1652228040
+            },
+            "Moon": {
+                "Rise": "2022-05-10T13:37:00-04:00",
+                "EpochRise": 1652204220,
+                "Set": "2022-05-11T03:37:00-04:00",
+                "EpochSet": 1652254620,
+                "Phase": "WaxingGibbous",
+                "Age": 10
+            },
+            "Temperature": {
+                "Minimum": {
+                    "Value": 46.0,
+                    "Unit": "F",
+                    "UnitType": 18
+                },
+                "Maximum": {
+                    "Value": 70.0,
+                    "Unit": "F",
+                    "UnitType": 18
+                }
+            },
+            "RealFeelTemperature": {
+                "Minimum": {
+                    "Value": 44.0,
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Phrase": "Friorento"
+                },
+                "Maximum": {
+                    "Value": 75.0,
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Phrase": "Agrad\u00e1vel"
+                }
+            },
+            "RealFeelTemperatureShade": {
+                "Minimum": {
+                    "Value": 44.0,
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Phrase": "Friorento"
+                },
+                "Maximum": {
+                    "Value": 67.0,
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Phrase": "Agrad\u00e1vel"
+                }
+            },
+            "HoursOfSun": 13.7,
+            "DegreeDaySummary": {
+                "Heating": {
+                    "Value": 7.0,
+                    "Unit": "F",
+                    "UnitType": 18
+                },
+                "Cooling": {
+                    "Value": 0.0,
+                    "Unit": "F",
+                    "UnitType": 18
+                }
+            },
+            "AirAndPollen": [
+                {
+                    "Name": "AirQuality",
+                    "Value": 0,
+                    "Category": "Boa",
+                    "CategoryValue": 1,
+                    "Type": "Oz\u00f4nio"
+                },
+                {
+                    "Name": "Grass",
+                    "Value": 0,
+                    "Category": "Boa",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Mold",
+                    "Value": 300,
+                    "Category": "Boa",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Ragweed",
+                    "Value": 0,
+                    "Category": "Boa",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Tree",
+                    "Value": 4,
+                    "Category": "Boa",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "UVIndex",
+                    "Value": 8,
+                    "Category": "Insalubre",
+                    "CategoryValue": 4
+                }
+            ],
+            "Day": {
+                "Icon": 1,
+                "IconPhrase": "Ensolarado",
+                "HasPrecipitation": false,
+                "ShortPhrase": "Ensolarado",
+                "LongPhrase": "Ensolarado",
+                "PrecipitationProbability": 0,
+                "ThunderstormProbability": 0,
+                "RainProbability": 0,
+                "SnowProbability": 0,
+                "IceProbability": 0,
+                "Wind": {
+                    "Speed": {
+                        "Value": 8.1,
+                        "Unit": "mi/h",
+                        "UnitType": 9
+                    },
+                    "Direction": {
+                        "Degrees": 167,
+                        "Localized": "SSE",
+                        "English": "SSE"
+                    }
+                },
+                "WindGust": {
+                    "Speed": {
+                        "Value": 21.9,
+                        "Unit": "mi/h",
+                        "UnitType": 9
+                    },
+                    "Direction": {
+                        "Degrees": 166,
+                        "Localized": "SSE",
+                        "English": "SSE"
+                    }
+                },
+                "TotalLiquid": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Rain": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Snow": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Ice": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "HoursOfPrecipitation": 0.0,
+                "HoursOfRain": 0.0,
+                "HoursOfSnow": 0.0,
+                "HoursOfIce": 0.0,
+                "CloudCover": 2,
+                "Evapotranspiration": {
+                    "Value": 0.18,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "SolarIrradiance": {
+                    "Value": 7472.4,
+                    "Unit": "W/m\u00b2",
+                    "UnitType": 33
+                }
+            },
+            "Night": {
+                "Icon": 34,
+                "IconPhrase": "Predominantemente aberto",
+                "HasPrecipitation": false,
+                "ShortPhrase": "Predominantemente claro",
+                "LongPhrase": "Predominantemente claro",
+                "PrecipitationProbability": 0,
+                "ThunderstormProbability": 0,
+                "RainProbability": 0,
+                "SnowProbability": 0,
+                "IceProbability": 0,
+                "Wind": {
+                    "Speed": {
+                        "Value": 4.6,
+                        "Unit": "mi/h",
+                        "UnitType": 9
+                    },
+                    "Direction": {
+                        "Degrees": 150,
+                        "Localized": "SSE",
+                        "English": "SSE"
+                    }
+                },
+                "WindGust": {
+                    "Speed": {
+                        "Value": 15.0,
+                        "Unit": "mi/h",
+                        "UnitType": 9
+                    },
+                    "Direction": {
+                        "Degrees": 163,
+                        "Localized": "SSE",
+                        "English": "SSE"
+                    }
+                },
+                "TotalLiquid": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Rain": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Snow": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Ice": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "HoursOfPrecipitation": 0.0,
+                "HoursOfRain": 0.0,
+                "HoursOfSnow": 0.0,
+                "HoursOfIce": 0.0,
+                "CloudCover": 14,
+                "Evapotranspiration": {
+                    "Value": 0.02,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "SolarIrradiance": {
+                    "Value": 703.8,
+                    "Unit": "W/m\u00b2",
+                    "UnitType": 33
+                }
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "MobileLink": "http://www.accuweather.com/pt/ca/lac-normand/g0x/daily-weather-forecast/3555406?day=2&lang=pt-br",
+            "Link": "http://www.accuweather.com/pt/ca/lac-normand/g0x/daily-weather-forecast/3555406?day=2&lang=pt-br"
+        },
+        {
+            "Date": "2022-05-11T07:00:00-04:00",
+            "EpochDate": 1652266800,
+            "Sun": {
+                "Rise": "2022-05-11T05:22:00-04:00",
+                "EpochRise": 1652260920,
+                "Set": "2022-05-11T20:15:00-04:00",
+                "EpochSet": 1652314500
+            },
+            "Moon": {
+                "Rise": "2022-05-11T14:48:00-04:00",
+                "EpochRise": 1652294880,
+                "Set": "2022-05-12T03:55:00-04:00",
+                "EpochSet": 1652342100,
+                "Phase": "WaxingGibbous",
+                "Age": 11
+            },
+            "Temperature": {
+                "Minimum": {
+                    "Value": 46.0,
+                    "Unit": "F",
+                    "UnitType": 18
+                },
+                "Maximum": {
+                    "Value": 75.0,
+                    "Unit": "F",
+                    "UnitType": 18
+                }
+            },
+            "RealFeelTemperature": {
+                "Minimum": {
+                    "Value": 44.0,
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Phrase": "Friorento"
+                },
+                "Maximum": {
+                    "Value": 78.0,
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Phrase": "Agrad\u00e1vel"
+                }
+            },
+            "RealFeelTemperatureShade": {
+                "Minimum": {
+                    "Value": 44.0,
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Phrase": "Friorento"
+                },
+                "Maximum": {
+                    "Value": 72.0,
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Phrase": "Agrad\u00e1vel"
+                }
+            },
+            "HoursOfSun": 3.1,
+            "DegreeDaySummary": {
+                "Heating": {
+                    "Value": 5.0,
+                    "Unit": "F",
+                    "UnitType": 18
+                },
+                "Cooling": {
+                    "Value": 0.0,
+                    "Unit": "F",
+                    "UnitType": 18
+                }
+            },
+            "AirAndPollen": [
+                {
+                    "Name": "AirQuality",
+                    "Value": 0,
+                    "Category": "Boa",
+                    "CategoryValue": 1,
+                    "Type": "Oz\u00f4nio"
+                },
+                {
+                    "Name": "Grass",
+                    "Value": 0,
+                    "Category": "Boa",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Mold",
+                    "Value": 300,
+                    "Category": "Boa",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Ragweed",
+                    "Value": 0,
+                    "Category": "Boa",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Tree",
+                    "Value": 6,
+                    "Category": "Boa",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "UVIndex",
+                    "Value": 6,
+                    "Category": "Insalubre (sens\u00edveis)",
+                    "CategoryValue": 3
+                }
+            ],
+            "Day": {
+                "Icon": 6,
+                "IconPhrase": "Predominantemente nublado",
+                "HasPrecipitation": false,
+                "ShortPhrase": "Predominantemente nublado",
+                "LongPhrase": "Predominantemente nublado",
+                "PrecipitationProbability": 0,
+                "ThunderstormProbability": 0,
+                "RainProbability": 0,
+                "SnowProbability": 0,
+                "IceProbability": 0,
+                "Wind": {
+                    "Speed": {
+                        "Value": 8.1,
+                        "Unit": "mi/h",
+                        "UnitType": 9
+                    },
+                    "Direction": {
+                        "Degrees": 202,
+                        "Localized": "SSO",
+                        "English": "SSW"
+                    }
+                },
+                "WindGust": {
+                    "Speed": {
+                        "Value": 15.0,
+                        "Unit": "mi/h",
+                        "UnitType": 9
+                    },
+                    "Direction": {
+                        "Degrees": 199,
+                        "Localized": "SSO",
+                        "English": "SSW"
+                    }
+                },
+                "TotalLiquid": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Rain": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Snow": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Ice": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "HoursOfPrecipitation": 0.0,
+                "HoursOfRain": 0.0,
+                "HoursOfSnow": 0.0,
+                "HoursOfIce": 0.0,
+                "CloudCover": 82,
+                "Evapotranspiration": {
+                    "Value": 0.13,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "SolarIrradiance": {
+                    "Value": 3241.6,
+                    "Unit": "W/m\u00b2",
+                    "UnitType": 33
+                }
+            },
+            "Night": {
+                "Icon": 36,
+                "IconPhrase": "Nuvens esparsas",
+                "HasPrecipitation": false,
+                "ShortPhrase": "Limpando um pouco",
+                "LongPhrase": "Limpando um pouco",
+                "PrecipitationProbability": 1,
+                "ThunderstormProbability": 0,
+                "RainProbability": 1,
+                "SnowProbability": 0,
+                "IceProbability": 0,
+                "Wind": {
+                    "Speed": {
+                        "Value": 5.8,
+                        "Unit": "mi/h",
+                        "UnitType": 9
+                    },
+                    "Direction": {
+                        "Degrees": 300,
+                        "Localized": "ONO",
+                        "English": "WNW"
+                    }
+                },
+                "WindGust": {
+                    "Speed": {
+                        "Value": 12.7,
+                        "Unit": "mi/h",
+                        "UnitType": 9
+                    },
+                    "Direction": {
+                        "Degrees": 296,
+                        "Localized": "ONO",
+                        "English": "WNW"
+                    }
+                },
+                "TotalLiquid": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Rain": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Snow": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Ice": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "HoursOfPrecipitation": 0.0,
+                "HoursOfRain": 0.0,
+                "HoursOfSnow": 0.0,
+                "HoursOfIce": 0.0,
+                "CloudCover": 75,
+                "Evapotranspiration": {
+                    "Value": 0.02,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "SolarIrradiance": {
+                    "Value": 380.2,
+                    "Unit": "W/m\u00b2",
+                    "UnitType": 33
+                }
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "MobileLink": "http://www.accuweather.com/pt/ca/lac-normand/g0x/daily-weather-forecast/3555406?day=3&lang=pt-br",
+            "Link": "http://www.accuweather.com/pt/ca/lac-normand/g0x/daily-weather-forecast/3555406?day=3&lang=pt-br"
+        },
+        {
+            "Date": "2022-05-12T07:00:00-04:00",
+            "EpochDate": 1652353200,
+            "Sun": {
+                "Rise": "2022-05-12T05:20:00-04:00",
+                "EpochRise": 1652347200,
+                "Set": "2022-05-12T20:16:00-04:00",
+                "EpochSet": 1652400960
+            },
+            "Moon": {
+                "Rise": "2022-05-12T16:02:00-04:00",
+                "EpochRise": 1652385720,
+                "Set": "2022-05-13T04:13:00-04:00",
+                "EpochSet": 1652429580,
+                "Phase": "WaxingGibbous",
+                "Age": 12
+            },
+            "Temperature": {
+                "Minimum": {
+                    "Value": 54.0,
+                    "Unit": "F",
+                    "UnitType": 18
+                },
+                "Maximum": {
+                    "Value": 78.0,
+                    "Unit": "F",
+                    "UnitType": 18
+                }
+            },
+            "RealFeelTemperature": {
+                "Minimum": {
+                    "Value": 54.0,
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Phrase": "Fresco"
+                },
+                "Maximum": {
+                    "Value": 86.0,
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Phrase": "Calor"
+                }
+            },
+            "RealFeelTemperatureShade": {
+                "Minimum": {
+                    "Value": 54.0,
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Phrase": "Fresco"
+                },
+                "Maximum": {
+                    "Value": 76.0,
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Phrase": "Agrad\u00e1vel"
+                }
+            },
+            "HoursOfSun": 5.4,
+            "DegreeDaySummary": {
+                "Heating": {
+                    "Value": 0.0,
+                    "Unit": "F",
+                    "UnitType": 18
+                },
+                "Cooling": {
+                    "Value": 1.0,
+                    "Unit": "F",
+                    "UnitType": 18
+                }
+            },
+            "AirAndPollen": [
+                {
+                    "Name": "AirQuality",
+                    "Value": 0,
+                    "Category": "Boa",
+                    "CategoryValue": 1,
+                    "Type": "Oz\u00f4nio"
+                },
+                {
+                    "Name": "Grass",
+                    "Value": 0,
+                    "Category": "Boa",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Mold",
+                    "Value": 300,
+                    "Category": "Boa",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Ragweed",
+                    "Value": 0,
+                    "Category": "Boa",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Tree",
+                    "Value": 9,
+                    "Category": "Boa",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "UVIndex",
+                    "Value": 8,
+                    "Category": "Insalubre",
+                    "CategoryValue": 4
+                }
+            ],
+            "Day": {
+                "Icon": 4,
+                "IconPhrase": "Nuvens esparsas",
+                "HasPrecipitation": false,
+                "ShortPhrase": "Per\u00edodos de sol entre nuvens",
+                "LongPhrase": "Per\u00edodos de sol entre nuvens",
+                "PrecipitationProbability": 0,
+                "ThunderstormProbability": 0,
+                "RainProbability": 0,
+                "SnowProbability": 0,
+                "IceProbability": 0,
+                "Wind": {
+                    "Speed": {
+                        "Value": 5.8,
+                        "Unit": "mi/h",
+                        "UnitType": 9
+                    },
+                    "Direction": {
+                        "Degrees": 50,
+                        "Localized": "NE",
+                        "English": "NE"
+                    }
+                },
+                "WindGust": {
+                    "Speed": {
+                        "Value": 10.4,
+                        "Unit": "mi/h",
+                        "UnitType": 9
+                    },
+                    "Direction": {
+                        "Degrees": 20,
+                        "Localized": "NNE",
+                        "English": "NNE"
+                    }
+                },
+                "TotalLiquid": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Rain": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Snow": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Ice": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "HoursOfPrecipitation": 0.0,
+                "HoursOfRain": 0.0,
+                "HoursOfSnow": 0.0,
+                "HoursOfIce": 0.0,
+                "CloudCover": 63,
+                "Evapotranspiration": {
+                    "Value": 0.14,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "SolarIrradiance": {
+                    "Value": 4262.9,
+                    "Unit": "W/m\u00b2",
+                    "UnitType": 33
+                }
+            },
+            "Night": {
+                "Icon": 35,
+                "IconPhrase": "Parcialmente nublado",
+                "HasPrecipitation": false,
+                "ShortPhrase": "Parcialmente nublado",
+                "LongPhrase": "Parcialmente nublado",
+                "PrecipitationProbability": 1,
+                "ThunderstormProbability": 0,
+                "RainProbability": 1,
+                "SnowProbability": 0,
+                "IceProbability": 0,
+                "Wind": {
+                    "Speed": {
+                        "Value": 4.6,
+                        "Unit": "mi/h",
+                        "UnitType": 9
+                    },
+                    "Direction": {
+                        "Degrees": 157,
+                        "Localized": "SSE",
+                        "English": "SSE"
+                    }
+                },
+                "WindGust": {
+                    "Speed": {
+                        "Value": 12.7,
+                        "Unit": "mi/h",
+                        "UnitType": 9
+                    },
+                    "Direction": {
+                        "Degrees": 146,
+                        "Localized": "SE",
+                        "English": "SE"
+                    }
+                },
+                "TotalLiquid": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Rain": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Snow": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Ice": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "HoursOfPrecipitation": 0.0,
+                "HoursOfRain": 0.0,
+                "HoursOfSnow": 0.0,
+                "HoursOfIce": 0.0,
+                "CloudCover": 80,
+                "Evapotranspiration": {
+                    "Value": 0.02,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "SolarIrradiance": {
+                    "Value": 390.9,
+                    "Unit": "W/m\u00b2",
+                    "UnitType": 33
+                }
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "MobileLink": "http://www.accuweather.com/pt/ca/lac-normand/g0x/daily-weather-forecast/3555406?day=4&lang=pt-br",
+            "Link": "http://www.accuweather.com/pt/ca/lac-normand/g0x/daily-weather-forecast/3555406?day=4&lang=pt-br"
+        },
+        {
+            "Date": "2022-05-13T07:00:00-04:00",
+            "EpochDate": 1652439600,
+            "Sun": {
+                "Rise": "2022-05-13T05:19:00-04:00",
+                "EpochRise": 1652433540,
+                "Set": "2022-05-13T20:18:00-04:00",
+                "EpochSet": 1652487480
+            },
+            "Moon": {
+                "Rise": "2022-05-13T17:19:00-04:00",
+                "EpochRise": 1652476740,
+                "Set": "2022-05-14T04:33:00-04:00",
+                "EpochSet": 1652517180,
+                "Phase": "WaxingGibbous",
+                "Age": 13
+            },
+            "Temperature": {
+                "Minimum": {
+                    "Value": 58.0,
+                    "Unit": "F",
+                    "UnitType": 18
+                },
+                "Maximum": {
+                    "Value": 81.0,
+                    "Unit": "F",
+                    "UnitType": 18
+                }
+            },
+            "RealFeelTemperature": {
+                "Minimum": {
+                    "Value": 58.0,
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Phrase": "Fresco"
+                },
+                "Maximum": {
+                    "Value": 86.0,
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Phrase": "Calor"
+                }
+            },
+            "RealFeelTemperatureShade": {
+                "Minimum": {
+                    "Value": 58.0,
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Phrase": "Fresco"
+                },
+                "Maximum": {
+                    "Value": 79.0,
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Phrase": "Agrad\u00e1vel"
+                }
+            },
+            "HoursOfSun": 4.8,
+            "DegreeDaySummary": {
+                "Heating": {
+                    "Value": 0.0,
+                    "Unit": "F",
+                    "UnitType": 18
+                },
+                "Cooling": {
+                    "Value": 4.0,
+                    "Unit": "F",
+                    "UnitType": 18
+                }
+            },
+            "AirAndPollen": [
+                {
+                    "Name": "AirQuality",
+                    "Value": 0,
+                    "Category": "Boa",
+                    "CategoryValue": 1,
+                    "Type": "Oz\u00f4nio"
+                },
+                {
+                    "Name": "Grass",
+                    "Value": 0,
+                    "Category": "Boa",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Mold",
+                    "Value": 300,
+                    "Category": "Boa",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Ragweed",
+                    "Value": 0,
+                    "Category": "Boa",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "Tree",
+                    "Value": 13,
+                    "Category": "Boa",
+                    "CategoryValue": 1
+                },
+                {
+                    "Name": "UVIndex",
+                    "Value": 5,
+                    "Category": "Moderado",
+                    "CategoryValue": 2
+                }
+            ],
+            "Day": {
+                "Icon": 3,
+                "IconPhrase": "Parcialmente ensolarado",
+                "HasPrecipitation": false,
+                "ShortPhrase": "Parcialmente ensolarado",
+                "LongPhrase": "Parcialmente ensolarado",
+                "PrecipitationProbability": 3,
+                "ThunderstormProbability": 0,
+                "RainProbability": 3,
+                "SnowProbability": 0,
+                "IceProbability": 0,
+                "Wind": {
+                    "Speed": {
+                        "Value": 4.6,
+                        "Unit": "mi/h",
+                        "UnitType": 9
+                    },
+                    "Direction": {
+                        "Degrees": 225,
+                        "Localized": "SO",
+                        "English": "SW"
+                    }
+                },
+                "WindGust": {
+                    "Speed": {
+                        "Value": 17.3,
+                        "Unit": "mi/h",
+                        "UnitType": 9
+                    },
+                    "Direction": {
+                        "Degrees": 226,
+                        "Localized": "SO",
+                        "English": "SW"
+                    }
+                },
+                "TotalLiquid": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Rain": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Snow": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Ice": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "HoursOfPrecipitation": 0.0,
+                "HoursOfRain": 0.0,
+                "HoursOfSnow": 0.0,
+                "HoursOfIce": 0.0,
+                "CloudCover": 68,
+                "Evapotranspiration": {
+                    "Value": 0.12,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "SolarIrradiance": {
+                    "Value": 3616.2,
+                    "Unit": "W/m\u00b2",
+                    "UnitType": 33
+                }
+            },
+            "Night": {
+                "Icon": 38,
+                "IconPhrase": "Predominantemente nublado",
+                "HasPrecipitation": false,
+                "ShortPhrase": "Aumento de nebulosidade",
+                "LongPhrase": "Aumento de nebulosidade",
+                "PrecipitationProbability": 9,
+                "ThunderstormProbability": 1,
+                "RainProbability": 9,
+                "SnowProbability": 0,
+                "IceProbability": 0,
+                "Wind": {
+                    "Speed": {
+                        "Value": 2.3,
+                        "Unit": "mi/h",
+                        "UnitType": 9
+                    },
+                    "Direction": {
+                        "Degrees": 271,
+                        "Localized": "O",
+                        "English": "W"
+                    }
+                },
+                "WindGust": {
+                    "Speed": {
+                        "Value": 10.4,
+                        "Unit": "mi/h",
+                        "UnitType": 9
+                    },
+                    "Direction": {
+                        "Degrees": 244,
+                        "Localized": "OSO",
+                        "English": "WSW"
+                    }
+                },
+                "TotalLiquid": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Rain": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Snow": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "Ice": {
+                    "Value": 0.0,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "HoursOfPrecipitation": 0.0,
+                "HoursOfRain": 0.0,
+                "HoursOfSnow": 0.0,
+                "HoursOfIce": 0.0,
+                "CloudCover": 41,
+                "Evapotranspiration": {
+                    "Value": 0.01,
+                    "Unit": "in",
+                    "UnitType": 1
+                },
+                "SolarIrradiance": {
+                    "Value": 403.1,
+                    "Unit": "W/m\u00b2",
+                    "UnitType": 33
+                }
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "MobileLink": "http://www.accuweather.com/pt/ca/lac-normand/g0x/daily-weather-forecast/3555406?day=5&lang=pt-br",
+            "Link": "http://www.accuweather.com/pt/ca/lac-normand/g0x/daily-weather-forecast/3555406?day=5&lang=pt-br"
+        }
+    ]
+}
